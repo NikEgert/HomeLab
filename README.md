@@ -35,9 +35,10 @@ The system includes the following features:
 
 ---
 
-## ⚙️ Tech stack
-| Logo                                                   | Name      | Description                      |
-|--------------------------------------------------------|------------|----------------------------------|
-| ![Proxmox Logo](Images/proxmox_logo.png) | Proxmox   | Open-source virtualization platform. |
-| ![Docker Logo](Images/docker_logo.png)   | Docker    | Containerization platform for creating and running apps. |
-| ![WireGuard Logo](Images/wireguard_logo.png)  | WireGuard | Fast, modern VPN technology with strong encryption. |
+## ⚙️ Tech Stack  
+
+| Logo                                                                                 | Name      | Description                      |
+|--------------------------------------------------------------------------------------|------------|----------------------------------|
+| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="30" />                  | Proxmox   | Open-source virtualization platform. |
+| <img src="Images/docker_logo.png" alt="Docker Logo" width="30" />                   | Docker    | Containerization platform for creating and running apps. |
+| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="30" />              | WireGuard | Fast, modern VPN technology with strong encryption. |
