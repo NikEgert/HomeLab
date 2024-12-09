@@ -75,4 +75,4 @@ Configuring VLANs using a switch's web interface has been a straightforward proc
 
 ## Network Tapology
 
-![network tapology](../../Images/network_Tapology.PNG)
+![network tapology](../../Images/Network_Tapology.PNG)
