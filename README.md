@@ -30,13 +30,14 @@ This project is a personal exploration aimed at deepening my understanding of ne
 ## ✨ Features
 
 The system includes the following features:
+- **Minecraft server:** The system hosts a Minecraft server within a Docker container running on a Debian-12 virtual machine.
+- **VPN server:** The system uses a WireGuard VPN server running in a Proxmox container to provide secure, fast, and encrypted VPN access.
 
 ---
 
 ## ⚙️ Tech stack
 | Logo                                                   | Name      | Description                      |
 |--------------------------------------------------------|------------|----------------------------------|
-| ![Proxmox Logo]() | Proxmox   | Open-source virtualization platform. |
-| ![Docker Logo]()   | Docker    | Containerization platform for creating and running apps. |
-| ![WireGuard Logo]()  | WireGuard | Fast, modern VPN technology with strong encryption. |
-
+| ![Proxmox Logo](Images/proxmox_logo.png) | Proxmox   | Open-source virtualization platform. |
+| ![Docker Logo](Images/docker_logo.png)   | Docker    | Containerization platform for creating and running apps. |
+| ![WireGuard Logo](Images/wireguard_logo.png)  | WireGuard | Fast, modern VPN technology with strong encryption. |
