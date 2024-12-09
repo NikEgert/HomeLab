@@ -39,7 +39,7 @@ The system includes the following features:
 
 | Logo                                                                                 | Name      | Description                      |
 |--------------------------------------------------------------------------------------|------------|----------------------------------|
-| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />                  | Proxmox   | Open-source virtualization platform. |
+| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />                  | Proxmox   | Open-source virtualiation platform. |
 | <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />                   | Docker    | Containerisation platform for creating and running apps. |
 | <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" />              | WireGuard | Fast, modern VPN technology with strong encryption. |
 
