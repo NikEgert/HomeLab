@@ -4,7 +4,7 @@
 
 ### 🚀 Project Status: **IN DEVELOPMENT**
 
-This project is a personal exploration aimed at deepening my understanding of networking, servers, and related technologies. It’s a hands-on learning experience to help me grow my skills and gain practical knowledge by experimenting with different concepts and tools. While still in the early stages, the goal is to learn through building, testing, and iterating. This is a space to explore, make mistakes, and improve while gaining real-world experience in areas like system management, networking, and deployment.
+This project is a personal exploration aimed at deepening my understanding of networking, servers and related technologies. It’s a hands on learning experience to help me grow my skills and gain practical knowledge by experimenting with different concepts and tools. While it is still in the early stages, my goal is to learn by creating and implementing projects within the **HomeLab**.
 
 ---
 
@@ -21,7 +21,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
   - **Ports:** 8  
   - **Speed:** 1000Mbps
 
- - **D-Link DGS-1100-08V2 switch**  
+- **D-Link DGS-1100-08V2 switch**  
   - **Ports:** 8  
   - **Speed:** 1000Mbps  
 
