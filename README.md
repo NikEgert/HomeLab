@@ -27,7 +27,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
 
 ---
 
-## ✨ Features
+### ✨ Features
 
 The system includes the following features:
 - **Minecraft server:** The system hosts a Minecraft server within a Docker container running on a Debian-12 virtual machine.
@@ -35,10 +35,17 @@ The system includes the following features:
 
 ---
 
-## ⚙️ Tech Stack  
+### ⚙️ Tech Stack  
 
 | Logo                                                                                 | Name      | Description                      |
 |--------------------------------------------------------------------------------------|------------|----------------------------------|
-| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="30" />                  | Proxmox   | Open-source virtualization platform. |
-| <img src="Images/docker_logo.png" alt="Docker Logo" width="30" />                   | Docker    | Containerization platform for creating and running apps. |
-| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="30" />              | WireGuard | Fast, modern VPN technology with strong encryption. |
+| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="50" />                  | Proxmox   | Open-source virtualization platform. |
+| <img src="Images/docker_logo.png" alt="Docker Logo" width="50" />                   | Docker    | Containerization platform for creating and running apps. |
+| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="50" />              | WireGuard | Fast, modern VPN technology with strong encryption. |
+
+---
+
+## 🚀 Future developments
+- Create Proxmox cluster with 2x refurbished old laptops
+- Jenkins
+- Malware zoo
