@@ -16,6 +16,12 @@ This project is a personal exploration aimed at deepening my understanding of ne
   - **RAM:** 8GB  
   - **SSD:** 512GB  
 
+- **1 × HP EliteBook Folio 1040 G3 laptop**  
+  - **CPU:** Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz  
+  - **RAM:** 8GB  
+  - **SSD:** 512GB 
+
+
 #### Networking
 - **D-Link DGS-1100-08 switch**  
   - **Ports:** 8  
@@ -24,6 +30,8 @@ This project is a personal exploration aimed at deepening my understanding of ne
 - **D-Link DGS-1100-08V2 switch**  
   - **Ports:** 8  
   - **Speed:** 1000Mbps  
+
+- **2x Type-C3.1/USB 1000Mbps Ethernet Adapters**
 
 ---
 
@@ -45,6 +53,13 @@ The system includes the following features:
 
 ---
 
+### 🛠️ Tools
+
+| Logo                                      | Name   | Description                     |
+|-------------------------------------------|--------|---------------------------------|
+| <img src="Images/Rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus  | A utility to create bootable USBs for installing OS or system recovery |
+
+
 ## 🚀 Future developments
 - Integrate Proxmox cluster with 2x refurbished old laptops
 - Jenkins
@@ -53,3 +68,5 @@ The system includes the following features:
 
 ## Personal Guides
 [VLAN Configuration](./Documents/Guides/VLAN_Config.md)
+
+## HomeLab Development
