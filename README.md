@@ -57,7 +57,7 @@ The system includes the following features:
 
 | Logo                                      | Name   | Description                     |
 |-------------------------------------------|--------|---------------------------------|
-| <img src="Images/Rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus  | A utility to create bootable USBs for installing OS or system recovery |
+| <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus  | A utility to create bootable USBs for installing OS or system recovery |
 
 
 ## 🚀 Future developments
