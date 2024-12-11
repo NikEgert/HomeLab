@@ -61,7 +61,7 @@ The system includes the following features:
 
 
 ## 🚀 Future developments
-- Integrate Proxmox cluster with 2x refurbished old laptops
+- Integrate Proxmox cluster with 1x refurbished old laptops
 - Jenkins
 - Malware zoo
 - NFS/NAS
@@ -70,3 +70,5 @@ The system includes the following features:
 [VLAN Configuration](./Documents/Guides/VLAN_Config.md)
 
 ## HomeLab Development
+
+[Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
