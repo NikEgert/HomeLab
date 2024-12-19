@@ -19,7 +19,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
 - **1 × HP EliteBook Folio 1040 G3 laptop**  
   - **CPU:** Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz  
   - **RAM:** 8GB  
-  - **SSD:** 512GB 
+  - **SSD:** 256GB 
 
 
 #### Networking
