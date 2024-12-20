@@ -11,7 +11,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
 ### 🖥️ Hardware Overview
 
 #### Servers
-- **1 × Dell G3 15 (3590) laptop**  
+- **1 × Dell G3 15 3590 laptop**  
   - **CPU:** Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz  
   - **RAM:** 8GB  
   - **SSD:** 512GB  
@@ -19,8 +19,12 @@ This project is a personal exploration aimed at deepening my understanding of ne
 - **1 × HP EliteBook Folio 1040 G3 laptop**  
   - **CPU:** Intel(R) Core(TM) i5-6200U CPU @ 2.30GHz  
   - **RAM:** 8GB  
-  - **SSD:** 512GB 
+  - **SSD:** 256GB 
 
+- **1 × HP Pavilion x360 Convertible laptop**  
+  - **CPU:** Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+  - **RAM:** 8GB  
+  - **SSD:** 256GB
 
 #### Networking
 - **D-Link DGS-1100-08 switch**  
@@ -61,7 +65,6 @@ The system includes the following features:
 
 
 ## 🚀 Future developments
-- Integrate Proxmox cluster with 1x refurbished old laptops
 - Jenkins
 - Malware zoo
 - NFS/NAS
@@ -72,3 +75,5 @@ The system includes the following features:
 ## HomeLab Development
 
 [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
+
+[Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md)
