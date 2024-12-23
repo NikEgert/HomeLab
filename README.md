@@ -80,6 +80,7 @@ The system includes the following features:
 
 ## Pictures
 
-<div style="text-align: center;">
-  <img src="Images/Homelab_pic.jpg" alt="Proxmox Logo" width="500" height="600" />
-</div>
+<p align="center">
+  <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
+</p>
+
