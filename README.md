@@ -77,3 +77,9 @@ The system includes the following features:
 [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
 
 [Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md)
+
+## Pictures
+
+<div style="text-align: center;">
+  <img src="Images/Homelab_pic.jpg" alt="Proxmox Logo" width="500" height="600" />
+</div>
