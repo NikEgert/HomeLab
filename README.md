@@ -44,6 +44,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
 The system includes the following features:
 - **Minecraft server:** The system hosts a Minecraft server within a Docker container running on a Debian-12 virtual machine.
 - **VPN server:** The system uses a WireGuard VPN server running in a Proxmox container to provide secure, fast, and encrypted VPN access.
+- **Docker Script (IN PROGRESS):** The system hosts a Docker container with a python script that backups up data periodically.
 
 ---
 
