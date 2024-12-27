@@ -107,12 +107,7 @@ The system includes the following features:
 
 ## Pictures
 
-<div style="text-align: center;">
-  <figure>
-    <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
-    <figcaption>My HomeLab setup!</figcaption>
-  </figure>
+<div align="center">
+  <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
+  <p>My HomeLab setup!</p>
 </div>
-
-
-
