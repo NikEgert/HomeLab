@@ -44,7 +44,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
 The system includes the following features:
 - **Minecraft server:** The system hosts a Minecraft server within a Docker container running on a Debian-12 virtual machine.
 - **VPN server:** The system uses a WireGuard VPN server running in a Proxmox container to provide secure, fast, and encrypted VPN access.
-- **Docker Script (IN PROGRESS):** The system hosts a Docker container with a python script that backups up data periodically.
+- **Python Backup Script:** The system hosts a CRON job with a python script that backups up data periodically.
 
 ---
 
@@ -84,4 +84,7 @@ The system includes the following features:
 <p align="center">
   <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
 </p>
+
+## Scripting
+
 
