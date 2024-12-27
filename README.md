@@ -65,6 +65,8 @@ The system includes the following features:
 | <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus  | A utility to create bootable USBs for installing OS or system recovery |
 
 
+---
+
 ## 🎓 Personal Guides
 
 - [VLAN Configuration](./Documents/Guides/VLAN_Config.md)
@@ -94,6 +96,8 @@ The system includes the following features:
   --->
 
 - [Docker data backup](./Documents/Scripting/Backup_Script.md)
+
+---
 
 ## 🚀 Future developments
 - Jenkins
