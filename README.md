@@ -65,26 +65,48 @@ The system includes the following features:
 | <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus  | A utility to create bootable USBs for installing OS or system recovery |
 
 
+## 🎓 Personal Guides
+
+- [VLAN Configuration](./Documents/Guides/VLAN_Config.md)
+
+  <!---
+  TODO
+  --->
+
+- [Configuring WireGuard VPN](./Documents/Guides/VLAN_Config.md)
+
+## 📈 HomeLab Development
+
+- [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
+
+- [Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md)
+
+  <!---
+  TODO
+  --->
+
+- [Configuring Proxmox Cluster](./Documents/HomeLab/CondfiguringCluster.md)
+
+## 💻 Scripting
+
+  <!---
+  TODO
+  --->
+
+- [Docker data backup](./Documents/Scripting/Backup_Script.md)
+
 ## 🚀 Future developments
 - Jenkins
 - Malware zoo
-- NFS/NAS
+- NFS/NAS (for storing VM backup data)
 
-## Personal Guides
-[VLAN Configuration](./Documents/Guides/VLAN_Config.md)
-
-## HomeLab Development
-
-[Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
-
-[Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md)
 
 ## Pictures
 
-<p align="center">
+<figure align="center">
   <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
-</p>
+  <figcaption>My HomeLab setup!</figcaption>
+</figure>
 
-## Scripting
 
 
