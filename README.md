@@ -77,10 +77,6 @@ The system includes the following features:
 
 - [VLAN Configuration](./Documents/Guides/VLAN_Config.md)
 
-  <!---
-  TODO
-  --->
-
 - [Configuring WireGuard VPN](./Documents/Guides/Wireguard_Config.md)
 
 ## 📈 HomeLab Development
@@ -96,10 +92,6 @@ The system includes the following features:
 - [Configuring Proxmox Cluster](./Documents/HomeLab/CondfiguringCluster.md)
 
 ## 💻 Scripting
-
-  <!---
-  TODO
-  --->
 
 - [Docker data backup](./Documents/Scripting/Backup_Script.md)
 
