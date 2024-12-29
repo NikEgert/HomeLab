@@ -30,7 +30,17 @@ This guide provides steps to configure a WireGuard VPN on a Proxmox container an
 
 ## Part 2: Configuring WireGuard on the Server
 
-Fortunately with the script, private/public keys are automatically generated.
+Fortunately with the script, private/public keys are automatically generated in the web UI. However, if they are required to be manually generated, they can be done by:
+
+```bash
+wg genkey > PK_file
+```
+
+```bash
+wg pubkey < PrivateKey_file > PublicKey_file
+```
+
+NOTE: do `umask 077` before generating the files in order to restrict them from being viewed by unauthorised users.
 
 ### 1. **Set Up the WireGuard Configuration File**
 
@@ -76,7 +86,9 @@ Fortunately with the script, private/public keys are automatically generated.
 
 Since I used my home network, the Peer endpoint address is the public IP given to me by my ISP and the port that is forwarded within my router.
 
-### 3. **Start WireGuard**
+### 1.5 **Set Up the WireGuard Configuration File Through Web UI**
+
+### 2. **Start WireGuard**
 
 - Bring up the WireGuard interface:
 
@@ -97,21 +109,21 @@ Since I used my home network, the Peer endpoint address is the public IP given t
   systemctl enable wg-quick@wg0
   ```
 
-### 4. **Configure Port Forwarding**
+### 3. **Configure Port Forwarding**
 
 - On your router, forward the WireGuard port used int the config gile in step 3 to the server's local IP address.
 
-### 5. **Configure WireGuard on Client Side**
+### 4. **Configure WireGuard on Client Side**
 
 - Download the WireGuard app and import the config file.
 
-<div align="center">
+  <div align="center">
   <img src="../../Images/Wireguard_client.jpeg" alt="HomeLab" />
-</div>
+  </div>
 
 ---
 
-### 1. **Check WireGuard Status**
+### 5. **Check WireGuard Status**
 
 - On the server console:
 
@@ -121,13 +133,13 @@ Since I used my home network, the Peer endpoint address is the public IP given t
 
   or access the web UI
 
-<div align="center">
-  <img src="../../Images/web_UI_wireguard.jpeg" alt="HomeLab" />
-</div>
+  <div align="center">
+    <img src="../../Images/web_UI_wireguard.jpeg" alt="HomeLab" />
+  </div>
 
 - Ensure the client appears as a peer and traffic is being transmitted.
 
-### 2. **Test Connectivity**
+### 6. **Test Connectivity**
 
 - On the client, test internet access and connectivity to the VPN server.
 - Check if DNS resolution works:
