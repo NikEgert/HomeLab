@@ -75,25 +75,25 @@ The system includes the following features:
 
 ## 🎓 Personal Guides
 
-- [VLAN Configuration](./Documents/Guides/VLAN_Config.md)
+- [VLAN Configuration](./Documents/Guides/VLAN_Config.md) - Guide on how I configured VLANs in my home network using a managed switch.
 
-- [Configuring WireGuard VPN](./Documents/Guides/Wireguard_Config.md)
+- [Configuring WireGuard VPN](./Documents/Guides/Wireguard_Config.md) - Guide on how I created a WireGuard VPN server to be able to connect to your personal network remotely.
 
 ## 📈 HomeLab Development
 
-- [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
+- [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md) - How I configured a NIC bridge to a USB port in order to allow a device without an ethernet port to connect to the internet.
 
-- [Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md)
+- [Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md) - How I managed to disable the laptop sleep config on lid shutting in a linux based system.
 
   <!---
   TODO
   --->
 
-- [Configuring Proxmox Cluster](./Documents/HomeLab/CondfiguringCluster.md)
+- [Configuring Proxmox Cluster](./Documents/HomeLab/CondfiguringCluster.md) - Guide on how to create a server cluster within Proxmox.
 
 ## 💻 Scripting
 
-- [Docker data backup](./Documents/Scripting/Backup_Script.md)
+- [Docker data backup](./Documents/Scripting/Backup_Script.md) - An overview on how I utilised Docker, Cron and a personalised python script to back up docker data.
 
 ---
 
