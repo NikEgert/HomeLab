@@ -1,5 +1,7 @@
 # Backup Script with Cron Integration
 
+During my Homelab journey, I faced the challenge of automating data backups to preserve snapshots effectively. To address this, I developed a Python script that seamlessly archives files and integrates with Cron for task scheduling. This setup ensures backups are executed periodically without requiring manual intervention.
+
 ## Overview of the Backup Script
 
 The Python backup script performs the following tasks:
@@ -16,7 +18,6 @@ The Python backup script performs the following tasks:
 - `destination_directory`: The directory where backups will be stored.
 - `saved_item`: The specific file or directory to be backed up.
 - `days_before_deletion`: The number of days after which backups will be considered old and deleted.
--
 
 2. **Backup Process**:
 
