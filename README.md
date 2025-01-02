@@ -79,7 +79,7 @@ The system includes the following features:
 
 ## 📈 HomeLab Development
 
-- [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
+- [Eth to USB A Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md)
 
 - [Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md)
 
