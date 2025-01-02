@@ -89,7 +89,7 @@ The system includes the following features:
   TODO
   --->
 
-- [Configuring Proxmox Cluster](./Documents/HomeLab/CondfiguringCluster.md) - Guide on how to create a server cluster within Proxmox.
+- [Configuring Proxmox Cluster](./Documents/HomeLab/ConfiguringCluster.md) - Guide on how to create a server cluster within Proxmox.
 
 ## 💻 Scripting
 
