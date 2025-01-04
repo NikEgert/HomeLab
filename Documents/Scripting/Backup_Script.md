@@ -65,6 +65,8 @@ This cron job runs the backup script every Sunday at 12:00 AM.
 
 Save and Exit the file.
 
+---
+
 ### TroubleShooting
 
 Cron Job logs can be checked using:
