@@ -61,7 +61,7 @@ append the line:
 0 0 * * 0 python3 /home/Backup/script.py /var/lib/docker/volumes /home/Minecraft/backup minecraftdata 4
 ```
 
-This cron job runs the backup script every day at 3:00 AM.
+This cron job runs the backup script every Sunday at 12:00 AM.
 
 Save and Exit the file.
 
