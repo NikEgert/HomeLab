@@ -62,6 +62,7 @@ The system includes the following features:
 | <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />     | Proxmox   | Open-source virtualiation platform.                      |
 | <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />       | Docker    | Containerisation platform for creating and running apps. |
 | <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" /> | WireGuard | Fast, modern VPN technology with strong encryption.      |
+| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language for scripting and general purpose. |
 
 ---
 
@@ -70,6 +71,7 @@ The system includes the following features:
 | Logo                                                            | Name  | Description                                                            |
 | --------------------------------------------------------------- | ----- | ---------------------------------------------------------------------- |
 | <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus | A utility to create bootable USBs for installing OS or system recovery |
+| <img src="Images/cron_image.png" alt="Cron" width="40" /> | Cron | A time based job scheduler for automating tasks in Unix operating systems. |
 
 ---
 
@@ -105,5 +107,5 @@ The system includes the following features:
 
 <div align="center">
   <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
-  <p>My HomeLab setup!</p>
+  <p>My HomeLab setup after creating a 3 node cluster.</p>
 </div>
