@@ -85,15 +85,13 @@ The system includes the following features:
 
 - [Disable Laptop Sleep](./Documents/HomeLab/Laptop_Sleep.md) - How I managed to disable the laptop sleep config on lid shutting in a linux based system.
 
-  <!---
-  TODO
-  --->
-
 - [Configuring Proxmox Cluster](./Documents/HomeLab/ConfiguringCluster.md) - Guide on how to create a server cluster within Proxmox.
 
 ## 💻 Scripting
 
 - [Docker data backup](./Documents/Scripting/Backup_Script.md) - An overview on how I utilised Docker, Cron and a personalised python script to back up docker data.
+
+- [Automatic VM reboot](./Documents/Scripting/Reboot.md) - How I automated the process of rebooting virtual machines - keeping extensibility in mind.
 
 ---
 
