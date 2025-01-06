@@ -52,6 +52,7 @@ The system includes the following features:
 - **Minecraft server:** The system hosts a Minecraft server within a Docker container running on a Debian-12 virtual machine.
 - **VPN server:** The system uses a WireGuard VPN server running in a Proxmox container to provide secure, fast, and encrypted VPN access.
 - **Python Backup Script:** The system hosts a CRON job with a python script that backups up data periodically.
+- **VM Reboot Script:** Node hosts a CRON job with a bash script that reboots specified VMs periodically.
 
 ---
 
