@@ -81,7 +81,7 @@ The system includes the following features:
 
 - [VLAN Configuration](./Documents/Guides/VLAN_Config.md) - Guide on how I configured VLANs in my home network using a managed switch.
 
-- [Configuring WireGuard VPN](./Documents/Guides/Wireguard_Config.md) - Guide on how I created a WireGuard VPN server to be able to connect to your personal network remotely.
+- [Configuring WireGuard VPN](./Documents/Guides/Wireguard_Config.md) - Guide on how I created a WireGuard VPN server to be able to connect to my personal network remotely.
 
 ## 📈 HomeLab Development
 
