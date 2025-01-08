@@ -61,10 +61,10 @@ The system includes the following features:
 
 | Logo                                                                    | Name      | Description                                              |
 | ----------------------------------------------------------------------- | --------- | -------------------------------------------------------- |
-| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />     | Proxmox   | Open-source virtualiation platform.                      |
-| <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />       | Docker    | Containerisation platform for creating and running apps. |
-| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" /> | WireGuard | Fast, modern VPN technology with strong encryption.      |
-| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language for scripting and general purpose. |
+| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />     | Proxmox   | Virtualisation platform I use to host Debian-12 VMs and LXCs  |
+| <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />       | Docker    | Containerisation platform I use for creating and running apps such as a minecraft server and Jenkins. |
+| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" /> | WireGuard | Encrypted VPN software I use to remotely access my homelab.     |
+| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language I mostly use for scripting such as file manipulation/permissions and developing a discord bot. |
 
 ---
 
@@ -72,8 +72,8 @@ The system includes the following features:
 
 | Logo                                                            | Name  | Description                                                            |
 | --------------------------------------------------------------- | ----- | ---------------------------------------------------------------------- |
-| <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus | A utility to create bootable USBs for installing OS or system recovery |
-| <img src="Images/cron_image.png" alt="Cron" width="40" /> | Cron | A time based job scheduler for automating tasks in Unix operating systems. |
+| <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus | A utility to create bootable USBs for installing OS or system recovey. Mainly used to install Proxmox and TrueNAS Scale |
+| <img src="Images/cron_image.png" alt="Cron" width="40" /> | Cron | A time based job scheduler for automating tasks in Unix operating systems. Mainly used to run python/bash scripts at specified intervals |
 
 ---
 
