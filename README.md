@@ -100,7 +100,7 @@ The system includes the following features:
 
 ## 🚀 Future developments
 
-- Jenkins
+- Ansible
 - Malware zoo
 - NFS/NAS (for storing VM backup data)
 
