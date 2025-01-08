@@ -53,6 +53,7 @@ The system includes the following features:
 - **VPN server:** The system uses a WireGuard VPN server running in a Proxmox container to provide secure, fast, and encrypted VPN access.
 - **Python Backup Script:** The system hosts a CRON job with a python script that backups up data periodically.
 - **VM Reboot Script:** Node hosts a CRON job with a bash script that reboots specified VMs periodically.
+- **Discord Bot: (IN DEVELOPMENT)** Multipurpose discord bot for my personal discord server.
 
 ---
 
