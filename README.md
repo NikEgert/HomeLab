@@ -64,7 +64,7 @@ The system includes the following features:
 | <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />     | Proxmox   | Virtualisation platform I use to host Debian-12 VMs and LXCs  |
 | <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />       | Docker    | Containerisation platform I use for creating and running apps such as a minecraft server and Jenkins. |
 | <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" /> | WireGuard | Encrypted VPN software I use to remotely access my homelab.     |
-| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language I mostly use for scripting such as file manipulation/permissions and developing a discord bot. |
+| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language I mostly use for scripting such as file manipulation/permissions. I am also currently developing a discord bot with it. |
 
 ---
 
