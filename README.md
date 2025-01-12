@@ -59,21 +59,22 @@ The system includes the following features:
 
 ### ⚙️ Tech Stack
 
-| Logo                                                                    | Name      | Description                                              |
-| ----------------------------------------------------------------------- | --------- | -------------------------------------------------------- |
-| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />     | Proxmox   | Virtualisation platform I use to host Debian-12 VMs and LXCs  |
-| <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />       | Docker    | Containerisation platform I use for creating and running apps such as a minecraft server and Jenkins. |
-| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" /> | WireGuard | Encrypted VPN software I use to remotely access my homelab.     |
-| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language I mostly use for scripting such as file manipulation/permissions. I am also currently developing a discord bot with it. |
+| Logo                                                                    | Name      | Description                                                                                                                                                                |
+| ----------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="Images/proxmox_logo.png" alt="Proxmox Logo" width="40" />     | Proxmox   | Virtualisation platform I use to host Debian-12 VMs and LXCs                                                                                                               |
+| <img src="Images/docker_logo.png" alt="Docker Logo" width="40" />       | Docker    | Containerisation platform I use for creating and running apps such as a minecraft server and Jenkins.                                                                      |
+| <img src="Images/wireguard_logo.png" alt="WireGuard Logo" width="40" /> | WireGuard | Encrypted VPN software I use to remotely access my homelab.                                                                                                                |
+| <img src="Images/python_logo.png" alt="Python Logo" width="40" />       | Python    | A high level programming language I mostly use for scripting such as file manipulation/permissions. I am also currently developing a discord bot written in this language. |
+| <img src="Images/Jenkins_logo.png" alt="Jenkins Logo" width="40" />     | Jenkins   | Jenkins is an automation server that helps automate tasks like building, testing, and deploying software. I currently use it as a CI/CD pipeline for my discord bot.       |
 
 ---
 
 ### 🛠️ Tools
 
-| Logo                                                            | Name  | Description                                                            |
-| --------------------------------------------------------------- | ----- | ---------------------------------------------------------------------- |
-| <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus | A utility to create bootable USBs for installing OS or system recovey. Mainly used to install Proxmox and TrueNAS Scale |
-| <img src="Images/cron_image.png" alt="Cron" width="40" /> | Cron | A time based job scheduler for automating tasks in Unix operating systems. Mainly used to run python/bash scripts at specified intervals |
+| Logo                                                            | Name  | Description                                                                                                                              |
+| --------------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| <img src="Images/rufus_logo.png" alt="Rufus Logo" width="40" /> | Rufus | A utility to create bootable USBs for installing OS or system recovey. Mainly used to install Proxmox and TrueNAS Scale                  |
+| <img src="Images/cron_image.png" alt="Cron" width="40" />       | Cron  | A time based job scheduler for automating tasks in Unix operating systems. Mainly used to run python/bash scripts at specified intervals |
 
 ---
 
@@ -91,11 +92,15 @@ The system includes the following features:
 
 - [Configuring Proxmox Cluster](./Documents/HomeLab/ConfiguringCluster.md) - Guide on how to create a server cluster within Proxmox.
 
+- [NFS/NAS](./Documents/HomeLab/NAS.md) - The process I took to refurbish an old computer and convert it into a fully functional NAS with 2.5TB storage.
+
 ## 💻 Scripting
 
 - [Docker data backup](./Documents/Scripting/Backup_Script.md) - An overview on how I utilised Docker, Cron and a personalised python script to back up docker data.
 
 - [Automatic VM reboot](./Documents/Scripting/Reboot.md) - How I automated the process of rebooting virtual machines - keeping extensibility in mind.
+
+- [CI/CD Jenkins pipeline](./Documents/Scripting/Jenkins.md) - How I automated testing and deployment of my discord bot with permanent uptime.
 
 ---
 
