@@ -108,7 +108,8 @@ The system includes the following features:
 
 - Ansible
 - Malware zoo
-- NFS/NAS (for storing VM backup data)
+- local DNS server
+- NFS/NAS (IN PROGRESS)
 
 ## Pictures
 
