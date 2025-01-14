@@ -117,5 +117,10 @@ The system includes the following features:
 
 <div align="center">
   <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
-  <p>My HomeLab setup after creating a 3 node cluster.</p>
+  <p>My HomeLab setup after creating a 3 node cluster. <i><b>DEC/2024</b></i></p>
+</div>
+
+<div align="center">
+  <img src="Images/building_nas.jpg" alt="HomeLab" width="500" height="600" />
+  <p>NAS in Development. <i><b>JAN/2025</b></i> </p>
 </div>
