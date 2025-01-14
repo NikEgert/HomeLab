@@ -84,6 +84,8 @@ The system includes the following features:
 
 - [Configuring WireGuard VPN](./Documents/Guides/Wireguard_Config.md) - Guide on how I created a WireGuard VPN server to be able to connect to my personal network remotely.
 
+- [Installing Jenkins](./Documents/Guides/Jenkins_Setup.md) - Guide on how I installed Jenkins within Debian VM, Docker container with permanent up time.
+
 ## 📈 HomeLab Development
 
 - [Adapter Configuration](./Documents/HomeLab/Eth-USB_Config.md) - How I configured a NIC bridge to a USB port in order to allow a device without an ethernet port to connect to the internet.
