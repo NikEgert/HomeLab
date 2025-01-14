@@ -1,4 +1,9 @@
-# Nik's HomeLab
+<h1 align="center"> Nik's HomeLab </h1>
+
+<div align="center">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/NikEgert/HomeLab">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/NikEgert/HomeLab">
+</div>
 
 ## Project Overview
 
