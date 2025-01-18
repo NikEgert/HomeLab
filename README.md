@@ -34,6 +34,10 @@ This project is a personal exploration aimed at deepening my understanding of ne
   - **RAM:** 8GB
   - **SSD:** 256GB
 
+#### NAS
+
+(in development)
+
 #### Networking
 
 - **D-Link DGS-1100-08 switch**
