@@ -120,7 +120,7 @@ The system includes the following features:
 - Ansible
 - Malware zoo
 - local DNS server
-- NFS/NAS (IN PROGRESS)
+- NFS/NAS True NAS Scale (IN PROGRESS)
 
 ## Pictures
 
