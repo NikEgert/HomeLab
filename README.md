@@ -122,7 +122,7 @@ The system includes the following features:
 - local DNS server
 - NFS/NAS True NAS Scale (IN PROGRESS)
 
-## Pictures
+## 📷 Pictures
 
 <div align="center">
   <img src="Images/Homelab_pic.jpg" alt="HomeLab" width="500" height="600" />
