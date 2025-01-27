@@ -28,7 +28,7 @@ This tutorial provides a setup for automating the reboot of a Proxmox VM, In my 
 4. Add the follow code to the script:
     ```bash
     #!/bin/bash
-    qm reboot $1 # takes the first argument as the VM number
+    /usr/sbin/qm reboot $1 # takes the first argument as the VM number
     ```
 
 ### Step 2: Test the Script
