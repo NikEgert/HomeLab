@@ -133,3 +133,8 @@ The system includes the following features:
   <img src="Images/building_nas.jpg" alt="HomeLab" width="500" height="600" />
   <p>NAS in Development. <i><b>JAN/2025</b></i> </p>
 </div>
+
+<div align="center">
+  <img src="Images/NAS_main.jpg" alt="HomeLab" width="500" height="600" />
+  <p>NAS Completed <i><b>MAR/2025</b></i> </p>
+</div>
