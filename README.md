@@ -35,8 +35,10 @@ This project is a personal exploration aimed at deepening my understanding of ne
   - **SSD:** 256GB
 
 #### NAS
-
-(in development)
+  - **CPU:** Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz
+  - **RAM:** 8GB (DDR3)
+  - **SSD:** 128GB
+  - **HDD:** 5x 500GB (RAIDZ2 configuration; 1.3TB usable storage)
 
 #### Networking
 
