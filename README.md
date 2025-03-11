@@ -119,10 +119,9 @@ The system includes the following features:
 
 ## 🚀 Future developments
 
-- Ansible
-- Malware zoo
+- Terraform
 - local DNS server
-- NFS/NAS True NAS Scale (IN PROGRESS)
+- Proxmox -> Kubernetes
 
 ## 📷 Pictures
 
