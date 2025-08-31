@@ -118,7 +118,6 @@ The system includes the following features:
 ---
 
 ## 🚀 Future developments
-
 - local DNS server
 - Dynamic DNS
 - TF2 trading bot (IN PROGRESS)
