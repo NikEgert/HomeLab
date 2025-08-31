@@ -119,9 +119,9 @@ The system includes the following features:
 
 ## 🚀 Future developments
 
-- Ansible
-- Malware zoo
 - local DNS server
+- Dynamic DNS
+- TF2 trading bot (IN PROGRESS)
 - NFS/NAS True NAS Scale (IN PROGRESS)
 
 ## 📷 Pictures
