@@ -11,6 +11,11 @@
 
 This project is a personal exploration aimed at deepening my understanding of networking, servers and related technologies. It’s a hands on learning experience to help me grow my skills and gain practical knowledge by experimenting with different concepts and tools. While it is still in the early stages, my goal is to learn by creating and implementing projects within the [HomeLab](https://en.wikipedia.org/wiki/Home_server).
 
+
+### MAJOR UPDATE:
+
+I haven’t been actively updating the homelab documentation lately, as I’ve been focused on my own proprietary personal project involving Team Fortress 2 (TF2) item trading. I’m currently in the process of deploying it on the homelab and will update the documentation soon without giving too much away 😉
+
 ---
 
 ### 🖥️ Hardware Overview
