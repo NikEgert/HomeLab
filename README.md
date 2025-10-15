@@ -14,7 +14,7 @@ This project is a personal exploration aimed at deepening my understanding of ne
 
 ### ❗ MAJOR UPDATE:
 
-I haven’t been actively updating the homelab documentation lately, as I’ve been focused on my own proprietary personal project involving Team Fortress 2 (TF2) item trading. I’m currently in the process of deploying it on the homelab and will update the documentation soon without giving too much away 😉
+I haven’t been actively updating the homelab documentation lately, as I’ve been focused on my project involving Team Fortress 2 (TF2) item trading. I’m currently in the process of deploying it on the homelab and will update the documentation soon without giving too much away 😉
 
 ---
 
